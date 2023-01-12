@@ -14,3 +14,4 @@
 
 - [Лабораторная № 1](https://github.com/DimNezZ/programming2-lab1)
 - [Лабораторная № 2](https://github.com/DimNezZ/programming2-lab2)
+- [Лабораторная № 3](https://github.com/DimNezZ/programming2-lab3)
